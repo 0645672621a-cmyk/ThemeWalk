@@ -2,7 +2,7 @@
 
 **给旅途一个线索，拍下原本会错过的美。**
 
-[打开 ThemeWalk 网页](https://0645672621a-cmyk.github.io/travel-photo-themes/)
+[打开 ThemeWalk 网页](https://0645672621a-cmyk.github.io/ThemeWalk/)
 
 Colorwalk 是带着一种颜色去散步、寻找并拍摄它。ThemeWalk 从这个玩法出发，把颜色扩展成六类观察主题：抽一张卡，带着它走进街道、风景与人群，发现旅途中值得留住的画面。
 
